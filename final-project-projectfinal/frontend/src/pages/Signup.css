@@ -1,0 +1,37 @@
+
+#SignupHeader {
+    color: white;
+    border: solid;
+    border-color: lightblue;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    width: 400px;
+    text-align: center;
+    background-color: cornflowerblue;
+}
+#SignupBox {
+    border: solid;
+    border-color: darkgray;
+    border-radius: 10px;
+    background-color: gray;
+    margin: auto;
+    width: 500px;
+    height: 100px;
+    text-align: center;
+}
+
+#username{
+    margin-top: 10px;
+}
+#password{
+    margin-top: 5px;
+}
+
+button{
+    margin-top: 10px;
+    background-color:palegreen;
+    border-radius: 5px;
+}
+

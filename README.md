@@ -1,0 +1,2 @@
+# sfsu-csc413-group-projects
+Uploading the group projects from a spring 2020 software development class, that really got me interested in the processes of software development and design, design patterns, working in a team, creating, hooking into, and generally using APIs, etc. These might be rough around the edges, but given the team-oriented remote work that we were largely doing for the first time, I'm ultimately pretty happy with them.

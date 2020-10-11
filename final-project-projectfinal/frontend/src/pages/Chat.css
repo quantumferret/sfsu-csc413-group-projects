@@ -1,0 +1,13 @@
+.Chat {
+    width: fit-content;
+    max-width: 60%;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+    overflow: scroll;
+    display: block;
+    flex-direction: column;
+    justify-content: space-around;
+    align-content: center;
+    text-align: center;
+    margin: 10% auto ;
+}

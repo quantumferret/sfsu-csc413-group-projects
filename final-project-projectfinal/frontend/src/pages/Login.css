@@ -1,0 +1,91 @@
+@media all and (min-width: 480px) {
+  .Login {
+    padding: 60px 0;
+  }
+
+  .Login form {
+    margin: 0 auto;
+    max-width: 320px;
+  }
+}
+.topText {
+  font-size: 30px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.loginBox {
+  background-color: rgba(114, 138, 202, 0.233);
+  padding-bottom: 20px;
+  width: 400px;
+  height: auto;
+  border: 15px solid rgb(13, 13, 14);
+  border-width: 2px;
+  padding: 50px;
+  margin: 0 auto;
+  font-size: 20px;
+  border-radius: 5px;
+  margin-top: 20px;
+  text-align: left;
+}
+
+.username {
+  height: 40px;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 100%;
+  border-width: 2px;
+  border-style: double;
+  padding: 5px;
+  border-color: aliceblue;
+  border-radius: 5px;
+}
+
+.password {
+  height: 40px;
+  font-size: 20px;
+  margin-top: 10px;
+  width: 100%;
+  margin-bottom: 10px;
+  border-width: 2px;
+  border-style: double;
+  padding: 5px;
+  border-color: aliceblue;
+  border-radius: 5px;
+}
+
+.loginButton {
+  background-color: #4caf50;
+  color: white;
+  padding: 14px 10px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
+  width: 30%;
+}
+
+.loginButton:hover {
+  opacity: 0.8;
+}
+
+.registerButton {
+  background-color: #af4c51;
+  color: white;
+  padding: 14px 10px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
+  width: 30%;
+  font-size: 15px;
+}
+
+.registerButton:hover {
+  opacity: 0.8;
+}
+
+.register {
+  margin-top: 20px;
+}

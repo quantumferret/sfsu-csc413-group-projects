@@ -1,0 +1,134 @@
+body {
+  margin: 10px 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  text-align: center;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: white; 
+  padding: 10px 20px;
+}
+
+input {
+  width: 250px;
+  padding: 12px 10px;
+  margin: 6px 0;
+  border: 3px solid black;
+  border-radius: 4px;
+  background-color: white;
+  color: black;
+}
+
+div.Input {
+  width: 200px;
+  padding: 12px 10px;
+  margin: 6px 0;
+  border: 3px solid black;
+  border-radius: 4px;
+  background-color: blanchedalmond;
+  color: black;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+h1 {
+  color: black;
+  text-decoration-color: red;
+  font-size: xx-large;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  lighting-color: black;
+}
+
+h2 {
+  color: black;
+}
+
+h3 {
+  color: black;
+}
+
+h4 {
+  color: black;
+}
+
+h5 {
+  color: black;
+}
+
+.label {
+  color: black;
+}
+
+caption{
+  background-color: white;
+  color: black;
+  padding: 10px 20px;
+  margin: 10px 0;
+  cursor: pointer;
+  display: inline-block;
+  width: 10%;  
+  align-items: center;
+  align-content: center;
+}
+
+
+button {
+  background-color: #4CAF50;
+  color: black;
+  padding: 14px 50px;
+  margin: 10px 0;
+  border: none;
+  cursor: pointer;
+  border: 2px solid black;
+  width: 15%;
+  opacity: 0.9;
+  display: inline-block;
+}
+button:hover {
+  opacity:1;
+}
+
+.deletebtn {
+  background-color: #f44336;
+  text-align: center;
+  opacity: 0.8;
+  padding: 10px 60px;
+  cursor: pointer;
+}
+
+table {
+  background-color: white;
+  border-collapse: collapse;
+  border: 1px solid black;
+  width: 180px;
+  margin: auto;
+  table-layout: auto;  
+  padding: 10px 20px;
+} 
+
+th,tr {  
+  align-items: center;
+  align-content: center;  
+  width: 40%;
+  margin: auto;
+  padding: 10px 20px;
+}
+td {  
+  padding: 12px 15px;
+  align-items: center;
+  align-content: center;
+  border: 1px solid black;
+  width: 250px;
+  padding: 12px 20px;
+  margin: auto;
+}
+td.A {  
+  border: none;
+  width: 250px;
+  margin: auto;
+  padding: 10px 20px;
+}

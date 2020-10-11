@@ -1,0 +1,70 @@
+.send_message {
+    width: 80px;
+    height: 50px;
+    display: inline-block;
+    border-radius: 50px;
+    background-color: #501b1d;
+    border: 2px solid #501b1d;
+    color: ghostwhite;
+    cursor: pointer;
+    transition: all 0.2s linear;
+    text-align: center;
+    float: bottom;
+}
+.send_message:hover {
+    color: #501b1d;
+    background-color: lightgray;
+}
+.send_message .text {
+    font-size: 16px;
+    font-weight: 300;
+    display: inline-block;
+    line-height: 48px;
+}
+
+.like-button {
+    padding: 5px 10px;
+    font-size: 16px;
+    background-color: #6DB08B;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    margin: 8px;
+}
+
+.message {
+    overflow-wrap: break-spaces;
+}
+
+
+.message:nth-child(odd) {
+    background: #64485c;
+    color: whitesmoke;
+    font-weight: bolder;
+
+}
+.message:nth-child(even) {
+    background: #83677b;
+    color: whitesmoke;
+    font-weight: bolder;
+}
+
+
+.MessageContainer {
+    max-width: 900px;
+    width: 100%;
+    margin: auto;
+    list-style: none;
+    padding: 1%;
+    flex-grow: 1;
+    overflow: auto;
+}
+
+.input {
+    padding: 5px;
+    font-size: 16px;
+    border-radius: 8px;
+    border: 1px solid #2e1114;
+    flex-grow: 1;
+    background-color: ghostwhite;
+}
